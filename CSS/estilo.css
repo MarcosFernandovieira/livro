@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: Tahoma;
+}
+
+div {
+    padding: 50px;
+}
+
+img {
+    width:190px;
+}
+
+h2 {
+    font-size:24px;
+    font-family: Tahoma;
+}
+
+p {
+    font-size: 12px;
+    font-family: Tahoma;
+    line-height: 28px;
+    width: 930px;
+    margin: auto;
+    text-align: center;
+}
+a {
+    background-color: green;
+    color:#ffffff;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 30px;
+    font-family: Tahoma;
+    padding: 05px;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Tahoma;
+}
+
+span {
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Tahoma;
+}
